@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+}
+.form-container {
+  border-radius: 20px;
+  width: 850px;
+  background: rgb(248, 248, 248);
+}
+.title, .slogan{
+  text-align: center;
+}
+.btn {
+  width: 100%;
+}
+.auth-image{
+  margin-top: 70px;
+  width: 100%;
+  height: 78%;
+}
+.alert{
+  margin-bottom: 1.5rem;
+}
